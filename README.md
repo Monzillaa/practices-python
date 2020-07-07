@@ -1,2 +1,6 @@
 # practices-python
-Practicas para comenzar en el lenguaje de programación Pyhthon
+
+My first repository in Git hub
+I love: my Nano :coffee: , wine, pets and :pizza:
+
+Practices to get started in the Python programming language
