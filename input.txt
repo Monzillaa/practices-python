@@ -1,0 +1,7 @@
+Este es un archivo de prueba, para
+ver si nuestro buscador funciona
+de no ser asi, tendremos que hacer
+mas pruebas y decidir que hacer.
+hola uno
+hola dos
+hola tres

@@ -2,6 +2,7 @@
 	Imprimir tabla de multiplicar de cualquier número
 	con Python usando el ciclo while
 """
+#Se ingresa  el numero que se establece al mandar a llamar a la función de abajo
 def imprimir_tabla(numero):
     # Se supone que las tablas llegan hasta el 10
     LIMITE = 10
